@@ -1,1 +1,0 @@
-Some checking text here
