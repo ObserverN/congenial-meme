@@ -1,1 +1,0 @@
-I have deleted a folder in main and leaving the test in outreachy-22 folder to check
